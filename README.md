@@ -59,10 +59,11 @@ This project is open-source and distributed under the MIT License.
 
 🤝 Contributors
 
-CHINTHA HASA SRI
+CHINTHA HASA SRI,
+EDUNET FOUNDATION.
 
-EDUNET FOUNDATION
 
+![Image](https://github.com/user-attachments/assets/873702a6-6dd6-46e4-9342-a5a469b6cb26)
 
 
 💡 "Healthy crops, sustainable future!" 🌍🌾
