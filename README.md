@@ -1,4 +1,6 @@
 # Plant-Disease-Project
+![Image](https://github.com/user-attachments/assets/9ad90e19-64e6-46ba-b86b-771e3aedbdbd)
+
 Plant Disease Detection System for Sustainable Agriculture
 
 🌱 Overview
