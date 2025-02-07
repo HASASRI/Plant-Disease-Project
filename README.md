@@ -53,9 +53,6 @@ The Plant Disease Detection System is an AI-powered solution designed to help fa
 
 •	Developing a multi-language interface for global accessibility.
 
-📜 License
-
-This project is open-source and distributed under the MIT License.
 
 🤝 Contributors
 
